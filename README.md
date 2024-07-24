@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Spring**
 
-- 💬 Ask me about **java,html,css,javascript**
+- 💬 Ask me about **java,html,css,javascript,react**
 
 - 📫 How to reach me **hojagesameer1208@gmail.com**
 
